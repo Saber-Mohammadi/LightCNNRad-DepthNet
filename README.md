@@ -60,4 +60,4 @@ This project was supervised by [**Dr. Pegah Khosravi**](https://scholar.google.c
 
 When referencing this repository, please use the following citation format:
 
-**S. Mohammadi, A.S. Mohanty, S. Saikali, D. Rose, W. LynnHtaik, R. Greaves, T. Lounes, E. Haque, A. Hirani, J. Zahiri, I. Dehzangi, V. Patel, P. Khosravi, "Beyond Algorithms: The Impact of Simplified CNN Models and Multifactorial Influences on Radiological Image Analysis", [**MedRxive**](https://www.medrxiv.org/content/10.1101/2024.09.15.24313585v1), 2024**
+**S. Mohammadi, A.S. Mohanty, S. Saikali, D. Rose, W. LynnHtaik, R. Greaves, T. Lounes, E. Haque, A. Hirani, J. Zahiri, I. Dehzangi, V. Patel, P. Khosravi, "Beyond Algorithms: The Impact of Simplified CNN Models and Multifactorial Influences on Radiological Image Analysis", [**doi: https://doi.org/10.1101/2024.09.15.24313585**](https://www.medrxiv.org/content/10.1101/2024.09.15.24313585v1), 2024**
